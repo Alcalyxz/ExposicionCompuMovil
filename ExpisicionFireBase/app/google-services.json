@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012178517255",
+    "firebase_url": "https://exposicioncompumovil.firebaseio.com",
+    "project_id": "exposicioncompumovil",
+    "storage_bucket": "exposicioncompumovil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012178517255:android:77f56e2a56835114d219a2",
+        "android_client_info": {
+          "package_name": "co.edu.udea.compumovil.expisicionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012178517255-r7am9u4vvdrod2kq1onclr0tuqtcsg9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92QNzAfc0CysDfava9Xi0gQGsMkuokqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012178517255-r7am9u4vvdrod2kq1onclr0tuqtcsg9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
